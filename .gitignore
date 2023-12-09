@@ -1,0 +1,8 @@
+# Ignore all files in the virtual environment directory
+venv/
+# Ignore all Python bytecode files
+*.pyc
+# Ignore build artifacts
+build/
+# Ignore IDE-specific files
+.idea/
