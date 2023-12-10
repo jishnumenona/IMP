@@ -1,5 +1,6 @@
 import pygame
 
+
 class PygameHandler:
     def __init__(self):
         pygame.init()
@@ -14,4 +15,4 @@ class PygameHandler:
 
         # Send feedback message if needed
         # ...
-aud
+        pass
